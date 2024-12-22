@@ -3,7 +3,8 @@ MindScope: Personality prediction system using machine learning for teenagers
 
 Dataset -> https://www.kaggle.com/datasets/lucasgreenwell/ocean-five-factor-personality-test-responses/data
 
-**CODENOTE**
+**CODENOTE**:- 
+
 This data was collected (c. 2012) through on interactive online personality test. Participants were informed that their responses would be recorded and used for research at the begining of the test and asked to confirm their consent at the end of the test.
 
 The following items were rated on a five point scale where 1=Disagree, 3=Neutral, 5=Agree (0=missed). All were presented on one page in the order E1, N2, A1, C1, O1, E2...... 
